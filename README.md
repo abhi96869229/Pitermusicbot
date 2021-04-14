@@ -1,4 +1,4 @@
-# AuraXMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
+# PeterMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
 [![MusicBot logo](https://telegra.ph/file/216154bbdfda219ee1d34.jpg)](https://t.me/AuraXNetwork)
 
 
@@ -28,7 +28,7 @@ Neither su music project , nor pytgcalls are stable
 <a href="https://github.com/utkarsh542/Pitermusicbot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/AuraXMusicBotUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/AuraUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/utkarsh542/Pitermusicbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
@@ -89,8 +89,6 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - `/resume` to resume the playback. 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/AuraXMusicBot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusicBot-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
 
 ## Support
 - [Channel](https://t.me/AuraXNetwork)
