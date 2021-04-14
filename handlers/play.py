@@ -199,11 +199,11 @@ def changeImageSize(maxWidth, maxHeight, image):
  
  #-----------------------------------YOUTUBE--------------------------------------------------------------
 @Client.on_message(
-    filters.command("ytp")
+    filters.command("ytt")
     & filters.group
     & ~ filters.edited
 )
-async def ytp(client: Client, message_: Message):
+async def ytt(client: Client, message_: Message):
     requested_by = message_.from_user.first_name
     chat_id=message_.chat.id
     text = message_.text.split(" ", 1)
