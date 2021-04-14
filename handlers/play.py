@@ -199,7 +199,7 @@ def changeImageSize(maxWidth, maxHeight, image):
  
  #-----------------------------------YOUTUBE--------------------------------------------------------------
 @Client.on_message(
-    filters.command("ytt")
+    filters.command("ytp")
     & filters.group
     & ~ filters.edited
 )
