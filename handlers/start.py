@@ -21,23 +21,20 @@ For source code Join our support group @AuraXSupport.
             [
                 [
                     InlineKeyboardButton(
-                        "Assistant⚡️", url="https://t.me/PiterXMusic"
+                        "Support⚡️", url="https://t.me/global_girls_boys_chatting"
                     ),
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/Piter_official",
+                        "Creater⚡️", url="https://t.me/Piterofficial",
                     )
                 ],
                 [
-                    InlineKeyboardButton(
-                        "Support⚡️", url="https://t.me/Piter_official"
-                    ),
                     InlineKeyboardButton(
                         "globalgirlsboyschatting⚡️", url="https://t.me/global_girls_boys_chatting"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/PiterMusicBot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/AuraXMusicBot?startgroup=true"
                     )
                 ]
             ]

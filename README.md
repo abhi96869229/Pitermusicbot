@@ -94,7 +94,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## Support
 - [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
+- [Group](https://t.me/global_girls_boys_chatting)
 
 ## Credits
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)

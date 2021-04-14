@@ -84,11 +84,11 @@ async def play(client: Client, message_: Message):
         res.delete
         m = await client.send_photo(
         chat_id=message_.chat.id,
-        photo="Others/.png",
+        photo="Others/thumbnail.png",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Support⚡️", url="https://t.me/AuraXSupport")]]
+            [[InlineKeyboardButton("Support⚡️", url="https://t.me/global_girls_boys_chatting")]]
         ),
-        caption=f"Playing Your song Via  [✯Piter✯](https://t.me/AuraXSupport).",
+        caption=f"Playing Your song Via  [✯Piter✯](https://t.me/global_girls_boys_chatting).",
          ) 
         tgcalls.pytgcalls.join_group_call(message_.chat.id, file_path)
 
@@ -133,9 +133,9 @@ async def deezer(client: Client, message_: Message):
         chat_id=message_.chat.id,
         photo="final.png",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Support⚡️", url="https://t.me/AuraXSupport")]]
+            [[InlineKeyboardButton("Support⚡️", url="https://t.me/global_girls_boys_chatting")]]
         ),
-        caption=f"Playing [{title}]({url}) Via [Deezer](https://t.me/AuraXSupport)."
+        caption=f"Playing [{title}]({url}) Via [Deezer](https://t.me/global_girls_boys_chatting)."
     ) 
     os.remove("final.png")
 # -----------------------------------------------------Jiosaavn-----------------------------------------------------------------
@@ -180,10 +180,10 @@ async def jiosaavn(client: Client, message_: Message):
     await res.delete()
     m = await client.send_photo(
         chat_id=message_.chat.id,
-        caption=f"Playing {sname} Via [Jiosaavn](https://t.me/AuraXSupport)",
+        caption=f"Playing {sname} Via [Jiosaavn](https://t.me/global_girls_boys_chatting)",
         photo="final.png",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Support⚡️", url="https://t.me/AuraXSupport")]]
+            [[InlineKeyboardButton("Support⚡️", url="https://t.me/global_girls_boys_chatting")]]
         ),
     )
     os.remove("final.png")
@@ -235,7 +235,7 @@ async def ytp(client: Client, message_: Message):
     res.delete
     m = await client.send_photo(
         chat_id=message_.chat.id,
-        caption=f"Playing `{query}` Via [YouTube](https://t.me/AuraXSupport)",
+        caption=f"Playing `{query}` Via [YouTube](https://t.me/global_girls_boys_chatting)",
         photo="final.png",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("Watch on youtube", url=link)]]
