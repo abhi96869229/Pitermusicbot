@@ -1,5 +1,5 @@
 # AuraXMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
-[![AuraXMusicBot logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
+[![MusicBot logo](https://telegra.ph/file/216154bbdfda219ee1d34.jpg)](https://t.me/AuraXNetwork)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -7,29 +7,29 @@ Neither su music project , nor pytgcalls are stable
 
 
 <p align="center">
-<a href="https://app.codacy.com/gh/AuraXNetwork/AuraXMusicBot?utm_source=github.com&utm_medium=referral&utm_content=AuraXNetwork/AuraXMusicBot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/utkarsh542/Pitermusicbot?utm_source=github.com&utm_medium=referral&utm_content=utkarsh542/Pitermusicbot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot" alt="HitCount"> <img src="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot.svg" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/utkarsh542/Pitermusicbot" /> </a>
+<a href="http://hits.dwyl.com/utkarsh542/Pitermusicbot" alt="HitCount"> <img src="http://hits.dwyl.com/utkarsh542/Pitermusicbot.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/AuraXNetwork/AuraXMusicBot?style=flat&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AuraXNetwork/AuraXMusicBot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/AuraXNetwork/AuraXMusicBot?color=success" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/utkarsh542/Pitermusicbot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/utkarsh542/Pitermusicbot" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/utkarsh542/Pitermusicbot?style=flat&logo=github" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/utkarsh542/Pitermusicbot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/utkarsh542/Pitermusicbot?color=success" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/utkarsh542/Pitermusicbot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/AuraXNetwork/AuraXMusicBot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/utkarsh542/Pitermusicbot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/utkarsh542/Pitermusicbot" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/AuraXMusicBotUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://github.com/utkarsh542/Pitermusicbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
@@ -70,11 +70,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AuraXNetwork/AuraXMusicBot.git)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/utkarsh542/Pitermusicbot.git)
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@utkarsh542/AuraXVCBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXVCBot#main.py) 
 
 ## Commands
 -The commands and there use is explained here-:
