@@ -1,5 +1,5 @@
 # PeterMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
-[![MusicBot logo](https://telegra.ph/file/216154bbdfda219ee1d34.jpg)](https://t.me/AuraXNetwork)
+[![MusicBot logo](https://telegra.ph/file/accf8bad04684b7687121.jpg)](https://t.me/global_girls_boys_chatting)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
