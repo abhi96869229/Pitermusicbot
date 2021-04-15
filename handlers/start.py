@@ -34,7 +34,7 @@ For source code Join our support group @AuraXSupport.
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/AuraXMusicBot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/global_girls_boys_chatting"
                     )
                 ]
             ]
